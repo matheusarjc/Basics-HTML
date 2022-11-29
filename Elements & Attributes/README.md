@@ -7,7 +7,7 @@
 Example:
 `<span> </span>`
 
-##### You can see the list of HTML tags <a href="Elements & Attributes\index.html"> here.</a>
+##### You can see the list of HTML tags <a href="Elements & Attributes\LIST.md"> here.</a>
 
 ---
 
