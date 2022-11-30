@@ -1,5 +1,7 @@
 # LIST OF HTML TAGS :)
 
+<div style="dislpay: flex; flex-direction: column;">
+
 `<!--...-->` Defines a comment
 `<!DOCTYPE>` Defines the document type
 `<a>` Defines a hyperlink
@@ -115,6 +117,6 @@ Defines strikethrough text
 `<video>` Defines embedded video content
 `<wbr>` Defines a possible line-break`
 
----
+## </div>
 
 Research from <a href="[http://](https://www.w3schools.com/TAGS/default.asp)">W3Schools</a>
